@@ -3,6 +3,7 @@
 - [HandsOnReact.com | React Security](https://handsonreact.com/docs/security)
 - [Jwt.io](https://jwt.io/)
 - [Do I need CSRF token if I'm using Bearer JWT?](https://security.stackexchange.com/questions/170388/do-i-need-csrf-token-if-im-using-bearer-jwt)
+- [JWT vs cookies for token-based authentication](https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication)
 
 ## HandsOnReact.com
 
