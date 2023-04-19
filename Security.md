@@ -4,7 +4,8 @@
 - [Jwt.io](https://jwt.io/)
 - [Do I need CSRF token if I'm using Bearer JWT?](https://security.stackexchange.com/questions/170388/do-i-need-csrf-token-if-im-using-bearer-jwt)
 - [JWT vs cookies for token-based authentication](https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication)
-
+- [Web App Security, Understanding the Meaning of the BFF Pattern](https://dev.to/damikun/web-app-security-understanding-the-meaning-of-the-bff-pattern-i85)
+- [COMPARING THE BACKEND FOR FRONTEND (BFF) SECURITY ARCHITECTURE WITH AN SPA UI USING A PUBLIC API](https://damienbod.com/2022/01/10/comparing-the-backend-for-frontend-bff-security-architecture-with-an-spa-ui-using-a-public-api/)
 ## HandsOnReact.com
 
 - [HandsonReact.com Lab Authentication Example](https://github.com/craigmckeachie/keeptrack-js/tree/labauth)
