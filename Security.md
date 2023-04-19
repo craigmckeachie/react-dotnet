@@ -1,11 +1,15 @@
 # Security
 
+## Bearer Tokens
+
 - [HandsOnReact.com | React Security](https://handsonreact.com/docs/security)
 - [Jwt.io](https://jwt.io/)
 
 - [JWT vs cookies for token-based authentication](https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication)
 - [Web App Security, Understanding the Meaning of the BFF Pattern](https://dev.to/damikun/web-app-security-understanding-the-meaning-of-the-bff-pattern-i85)
 - [COMPARING THE BACKEND FOR FRONTEND (BFF) SECURITY ARCHITECTURE WITH AN SPA UI USING A PUBLIC API](https://damienbod.com/2022/01/10/comparing-the-backend-for-frontend-bff-security-architecture-with-an-spa-ui-using-a-public-api/)
+- [Token Based Authentication in ASP.NET Core](https://stackoverflow.com/questions/29048122/token-based-authentication-in-asp-net-core?rq=1)
+
 - [The Web API Authentication guide, Bearer tokens](https://www.securitydrops.com/bearer-tokens/)
 - [Where to save a JWT in a browser-based application and how to use it](https://stackoverflow.com/questions/26340275/where-to-save-a-jwt-in-a-browser-based-application-and-how-to-use-it?rq=1)
 - [Where to store JWT in browser? How to protect against CSRF?](https://stackoverflow.com/questions/27067251/where-to-store-jwt-in-browser-how-to-protect-against-csrf)
