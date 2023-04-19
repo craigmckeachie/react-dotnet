@@ -13,6 +13,8 @@
 
 ## BFF
 
+
+- [Duende just released a Backend for Frontend (BFF) NuGet Package for properly securing SPAs!](https://www.reddit.com/r/dotnetcore/comments/mdlskv/duende_just_released_a_backend_for_frontend_bff/)
 - [Web App Security, Understanding the Meaning of the BFF Pattern](https://dev.to/damikun/web-app-security-understanding-the-meaning-of-the-bff-pattern-i85)
 - [COMPARING THE BACKEND FOR FRONTEND (BFF) SECURITY ARCHITECTURE WITH AN SPA UI USING A PUBLIC API](https://damienbod.com/2022/01/10/comparing-the-backend-for-frontend-bff-security-architecture-with-an-spa-ui-using-a-public-api/)
 - [Why is BFF pattern deemed safer for SPA's?](https://stackoverflow.com/questions/73096336/why-is-bff-pattern-deemed-safer-for-spas#:~:text=is%20not%20useful-,Save%20this%20answer.,that%20involves%20a%20public%20client.)
